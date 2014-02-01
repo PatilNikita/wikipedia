@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: georgia;
+  font-size: 20px;
+  line-height: 1.5;
+  color: red;
+}
+header {
+  background: url(http://guitarism.ru/wp-content/uploads/2010/01/Talking_Heads.jpg);
+}
+ul {
+	color: green;
+}
+header h1 {
+  height: 300px;
+  line-height: 400px;
+  color: yellow;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 244px;
+  text-align: center;
+  text-shadow: 0 0 2px black;
+}
+section,
+aside {
+  width: 85%;
+  margin: 4em auto;
+}
